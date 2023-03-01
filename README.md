@@ -5,7 +5,7 @@ Mono;"><i><a href="https://ecal.dev" target="_blank"
 style="color:#7209b7">ϵcαl</a></i></pre>
 </h2>
 
-<h2 align="center" style="border-radius: 10px;background: #212121;">
+<h2 align="center">
   <pre>
     <img src="./ecal.svg" alt="ecal" />
   </pre>
