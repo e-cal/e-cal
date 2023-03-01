@@ -6,5 +6,5 @@ style="color:#7209b7">ϵcαl</a></i></pre>
 </h2>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/e-cal/e-cal/main/name.svg" alt="ecal" />
+  <img src="https://raw.githubusercontent.com/e-cal/e-cal/blob/main/name.svg" alt="ecal" />
 </h1>
