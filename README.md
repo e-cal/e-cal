@@ -4,4 +4,4 @@
   </a>
 </h2>
 
-_Aspiring to make sand think_
+_make sand think_
