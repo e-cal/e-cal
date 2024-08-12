@@ -1,1 +1,1 @@
-neovim btw | nixos btw | [ecal.dev](https://ecal.dev)
+neovim, nixos, [ecal.dev](https://ecal.dev)
