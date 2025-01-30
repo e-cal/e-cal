@@ -1,1 +1,1 @@
-neovim, nixos, [ecal.dev](https://ecal.dev)
+llm research, neovim, nixos, [ecal.dev](https://ecal.dev)
